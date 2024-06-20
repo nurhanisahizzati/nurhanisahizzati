@@ -91,3 +91,43 @@ I am continually learning and expanding my knowledge, eager to explore new techn
   <a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
   <a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a> 
 </p>
+
+<hr>
+
+## Courses
+
+<ol>
+  <li>
+    <b> First Year, First Semester </b>
+    <ul>
+      <li>Digital Logic</li>
+      <li>Discrete Structure</li>
+      <li>Programme Technique</li>
+      <li>Technology and Information System</li>
+  </li>
+  <li>
+    <b> First Year, Second Semester </b>
+    <ul>
+      <li>Computational Mathematics</li>
+      <li>Computer Organization Architecture</li>
+      <li>Probability and Statistical Data Analysis</li>
+      <li>Software Engineering</li>
+      <li>Programming Technique II</li>
+  </li>
+  <li>
+    <b> Second Year, Third Semester </b>
+    <ul>
+      <li>Data Structure and Algorithm</li>
+      <li>Database</li>
+      <li>Human-Computer Interaction</li>
+      <li>Network Communications</li>
+  </li>
+  <li>
+    <b> Second Year, Fourth Semester </b>
+    <ul>
+      <li>Object-Oriented Programming</li>
+      <li>Operating System</li>
+      <li>Requirement Engineering and Software Modelling</li>
+      <li>Web Programming</li>
+  </li>
+</ol>
