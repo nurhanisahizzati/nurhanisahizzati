@@ -43,7 +43,7 @@ I am continually learning and expanding my knowledge, eager to explore new techn
   <a href="http://www.instagram.com/niesajfjdjfjrjd" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/nur-hanisah-izzati" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/nurhanisahizzati" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
   <a href="https://www.x.com/niesa_izt" target="_blank" rel="noreferrer">
