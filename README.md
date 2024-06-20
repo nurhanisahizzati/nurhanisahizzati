@@ -6,18 +6,18 @@ Software Engineering Student at Universiti Teknologi Malaysia, focusing on Web D
 
 I am a dedicated Software Engineering student at Universiti Teknologi Malaysia, with a strong foundation in various programming languages and technologies. Over the past three years, I have progressively built my skills and knowledge through both academic coursework and hands-on projects. Here’s a brief overview of my learning journey and experiences: 
 
-C++ Programming: During my foundation and first year, I developed a solid understanding of C++ which helped me grasp the fundamentals of programming and problem-solving. 
+<b>C++ Programming</b>: During my foundation and first year, I developed a solid understanding of C++ which helped me grasp the fundamentals of programming and problem-solving. 
 
-Database Management with MySQL: In my second year, I delved into database management, mastering MySQL to design and manage robust databases. 
+<b>Database Management with MySQL</b>: In my second year, I delved into database management, mastering MySQL to design and manage robust databases. 
 
-Web Development: 
-  Prototyping: I gained experience with Figma, creating interactive prototypes and designs. 
-  CMS and WordPress: I learned to build and customize websites using WordPress, understanding the basics of content management. 
-  Full Stack Development: I developed websites using HTML, CSS, JavaScript, and PHP, giving me a comprehensive understanding of both front-end and back-end development. 
+<b>Web Development</b>: 
+  <b>Prototyping</b>: I gained experience with Figma, creating interactive prototypes and designs. 
+  <b>CMS and WordPress</b>: I learned to build and customize websites using WordPress, understanding the basics of content management. 
+  <b>Full Stack Development</b>: I developed websites using HTML, CSS, JavaScript, and PHP, giving me a comprehensive understanding of both front-end and back-end development. 
   
-Object-Oriented Programming: I honed my skills in Java, particularly focusing on Object-Oriented Programming principles, which have been crucial in developing scalable and maintainable software. 
+<b>Object-Oriented Programming</b>: I honed my skills in Java, particularly focusing on Object-Oriented Programming principles, which have been crucial in developing scalable and maintainable software. 
 
-Projects: Throughout my studies, I have participated in numerous projects involving both front-end and back-end development. These projects have not only enhanced my technical skills but also taught me valuable lessons in teamwork, project management, and software development life cycles. 
+<b>Projects</b>: Throughout my studies, I have participated in numerous projects involving both front-end and back-end development. These projects have not only enhanced my technical skills but also taught me valuable lessons in teamwork, project management, and software development life cycles. 
 
 I am continually learning and expanding my knowledge, eager to explore new technologies and methodologies. My goal is to leverage my skills in a dynamic and challenging environment where I can contribute to innovative projects and grow as a software engineer.
 
