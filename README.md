@@ -57,3 +57,7 @@ I am continually learning and expanding my knowledge, eager to explore new techn
 <hr>
 
 ## Education
+<p><b> Universiti Teknologi Malaysia </b> - Bachelor's Degree in Software Engineering (October 2022-now)</p>
+<p></p><b> Kolej Mara Kuala Nerang </b> - Foundation in Engineering and Technology (August 2021 - June 2022 </p>
+<p><b> Maktab Rendah Sains Mara Lenggong </b> - Science Stream (Feb 2019 - March 2021)</p>
+<p><b> SMK Muadzam Shah </b> - Arabic Stream(lower form), Science Stream(upper form) </p>
