@@ -11,9 +11,11 @@ I am a dedicated <b>Software Engineering student at Universiti Teknologi Malaysi
 <b>Database Management with MySQL</b>: In my second year, I delved into database management, mastering MySQL to design and manage robust databases. 
 
 <p><b>Web Development</b>: <br>
-<b>  Prototyping</b>: I gained experience with Figma, creating interactive prototypes and designs.<br> 
-<b>  CMS and WordPress</b>: I learned to build and customize websites using WordPress, understanding the basics of content management.<br>
-<b>  Full Stack Development</b>: I developed websites using HTML, CSS, JavaScript, and PHP, giving me a comprehensive understanding of both front-end and back-end development.</p> 
+<ul>  
+<li><b>  Prototyping</b>: I gained experience with Figma, creating interactive prototypes and designs.<br></li> 
+<li><b>  CMS and WordPress</b>: I learned to build and customize websites using WordPress, understanding the basics of content management.<br></li>
+<li><b>  Full Stack Development</b>: I developed websites using HTML, CSS, JavaScript, and PHP, giving me a comprehensive understanding of both front-end and back-end development.</p></li>
+</ul> 
   
 <b>Object-Oriented Programming</b>: I honed my skills in Java, particularly focusing on Object-Oriented Programming principles, which have been crucial in developing scalable and maintainable software. 
 
