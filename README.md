@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineering Student at Universiti Teknologi Malaysia, focusing on Web Development and Database Management.
 -------------------------------------------------------------------------------------------------------------------
 
-I am a dedicated Software Engineering student at Universiti Teknologi Malaysia, with a strong foundation in various programming languages and technologies. Over the past three years, I have progressively built my skills and knowledge through both academic coursework and hands-on projects. Here’s a brief overview of my learning journey and experiences: 
+I am a dedicated <b>Software Engineering student at Universiti Teknologi Malaysia</b>, with a strong foundation in various programming languages and technologies. Over the past three years, I have progressively built my skills and knowledge through both academic coursework and hands-on projects. Here’s a brief overview of my learning journey and experiences: 
 
 <b>C++ Programming</b>: During my foundation and first year, I developed a solid understanding of C++ which helped me grasp the fundamentals of programming and problem-solving. 
 
