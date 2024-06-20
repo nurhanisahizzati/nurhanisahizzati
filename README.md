@@ -104,6 +104,7 @@ I am continually learning and expanding my knowledge, eager to explore new techn
       <li>Discrete Structure</li>
       <li>Programme Technique</li>
       <li>Technology and Information System</li>
+    </ul>  
   </li>
   <li>
     <b> First Year, Second Semester </b>
@@ -113,6 +114,7 @@ I am continually learning and expanding my knowledge, eager to explore new techn
       <li>Probability and Statistical Data Analysis</li>
       <li>Software Engineering</li>
       <li>Programming Technique II</li>
+    </ul>  
   </li>
   <li>
     <b> Second Year, Third Semester </b>
@@ -121,6 +123,7 @@ I am continually learning and expanding my knowledge, eager to explore new techn
       <li>Database</li>
       <li>Human-Computer Interaction</li>
       <li>Network Communications</li>
+    </ul>  
   </li>
   <li>
     <b> Second Year, Fourth Semester </b>
@@ -129,5 +132,16 @@ I am continually learning and expanding my knowledge, eager to explore new techn
       <li>Operating System</li>
       <li>Requirement Engineering and Software Modelling</li>
       <li>Web Programming</li>
+    </ul>  
   </li>
+</ol>
+
+## Certificates
+<ol>
+  <li>Go Digital ASEAN UTM</li>
+  <li>Dean's List semester 1 2023/2024</li>
+  <li>Elite Global Excellence Workshop</li>
+  <li>Cisco Networking Academy course completion 2023</li>
+  <li>Jazari Robotic Workshop 2022</li>
+  <li>Programming Clinic 2022</li>
 </ol>
