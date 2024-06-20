@@ -54,6 +54,6 @@ I am continually learning and expanding my knowledge, eager to explore new techn
   </a>
 </p>
 
-==========================================================================================================================================
+<hr>
 
 ## Education
