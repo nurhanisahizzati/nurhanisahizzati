@@ -61,11 +61,11 @@ I am continually learning and expanding my knowledge, eager to explore new techn
 <p><b> SMK Muadzam Shah </b> - Arabic Stream(lower form), Science Stream(upper form) (January 2016 - February 2019) </p>
 <br>
 
-*  ## Position
+## Position
 <br>
 
 
-*  ## Skills
+## Skills
 <ul>
   <li> <b>Programming Languages</b>: C++, Java, Python, JavaScript, PHP </li>
   <li> <b>Web Development</b>: HTML, CSS, React, Node.js </li>
