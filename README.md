@@ -12,6 +12,7 @@ I am a dedicated <b>Software Engineering student at Universiti Teknologi Malaysi
 
 <b>Web Development</b>: 
   <b>Prototyping</b>: I gained experience with Figma, creating interactive prototypes and designs. 
+  
   <b>CMS and WordPress</b>: I learned to build and customize websites using WordPress, understanding the basics of content management. 
   <b>Full Stack Development</b>: I developed websites using HTML, CSS, JavaScript, and PHP, giving me a comprehensive understanding of both front-end and back-end development. 
   
