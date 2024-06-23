@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nur Hanisah Izzati
 ==========================================================================================================================================
 
+![Profile Picture](https://i.postimg.cc/LJCt82X3/your-image.jpg)
+
 Software Engineering Student at Universiti Teknologi Malaysia, focusing on Web Development and Database Management.
 -------------------------------------------------------------------------------------------------------------------
 
