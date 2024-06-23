@@ -173,9 +173,26 @@ I am continually learning and expanding my knowledge, eager to explore new techn
 <hr>
 
 # Assignments and Project
+
 ## Assignments:
 ### Assignment 1: Report
 - [Assignment 1 Report](https://github.com/nurhanisahizzati/nurhanisahizzati/blob/main/WP_assignment1.pdf)
 
 ### Assignment 2: Website
-- [Assignment 2 Website] (https://bytebuildersweb.000webhostapp.com/)
+- [Assignment 2 Website](https://bytebuildersweb.000webhostapp.com/)
+
+### Assignment 3: Github e-Portfolio
+- [Assignment 3 Github E-portfolio](https://github.com/nurhanisahizzati/github-e-portfolio)
+
+## Project:
+
+<hr>
+<hr>
+
+# Reflections
+
+## Assignment 1: Report
+
+## Assignment 2: Website
+
+## Assignment 3: Github e-Portfolio
