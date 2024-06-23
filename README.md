@@ -176,3 +176,6 @@ I am continually learning and expanding my knowledge, eager to explore new techn
 ## Assignments:
 ### Assignment 1: Report
 - [Assignment 1 Report](https://github.com/nurhanisahizzati/nurhanisahizzati/blob/main/WP_assignment1.pdf)
+
+### Assignment 2: Website
+- [Assignment 2 Website] (https://bytebuildersweb.000webhostapp.com/)
