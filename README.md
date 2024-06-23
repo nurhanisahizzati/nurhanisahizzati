@@ -192,7 +192,16 @@ I am continually learning and expanding my knowledge, eager to explore new techn
 # Reflections
 
 ## Assignment 1: Report
+- **Summary**: This report mainly focuses on analysing the performances between various banks including local Malaysian banks (Maybank, CIMB, Hong Leong Bank), and 3 foreign banks (UOB, Standard Chartered, HSBC) to identify which bank has the best user experience and website persformance.
+- **Improvement**: A lot of improvement can be made in this assignment if I incorporate more case studies from various sources to give out an even more comprehensive analysis.
+- **Additional Thoughts**: Overall, this assignment really taught me on how to do website performance analysis using Google Lighthouse and I really hope that I can utilize this knowledge in the future.
 
 ## Assignment 2: Website
+- **Summary**: In this task, I worked together with my team and and used HTML, CSS, and JavaScript to create a responsive website. Throughout this assignment, I was able to enhance my front-end development skills and increase my knowledge on certain areas that I was lacking.
+- **Improvement**: I could have improve the website's performance and its load times even further.
+- **Additional Thoughts**: During this particular assignment, i have experimented with various design layouts and enhancing user experience. Throughout this task, i find a lot of enjoyment in completing it rather than feeling burdened by it, which makes the journey feels a lot better.
 
 ## Assignment 3: Github e-Portfolio
+- **Summary**: In this assignment, i designed my own portfolio using github where i was able to showcase my learning progress, achievement, and other related information about myself. 
+- **Improvement**: This hands-on experience has enhance my knowledge and capabilities of using Github. This includes making repositories and manage them, designing layouts for my portfolio, and utilizing various Github's features.
+- **Additional Thoughts**: Personally, i think this assignment provides an opportunities for me to connect with other developers in this Github platform by having a well-organized profile. In addition, i can do a lot of collaboration and source code sharing on this platform which is a great benefit for me.
