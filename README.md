@@ -53,6 +53,7 @@ I am continually learning and expanding my knowledge, eager to explore new techn
 </p>
 
 <hr>
+<hr>
 
 ## Education
 <p><b> Universiti Teknologi Malaysia </b> - Bachelor's Degree in Software Engineering (October 2022-now)</p>
@@ -92,6 +93,7 @@ I am continually learning and expanding my knowledge, eager to explore new techn
   <a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a> 
 </p>
 
+<hr>
 <hr>
 
 ## Courses
@@ -139,9 +141,33 @@ I am continually learning and expanding my knowledge, eager to explore new techn
 ## Certificates
 <ol>
   <li>Go Digital ASEAN UTM</li>
-  <li>Dean's List semester 1 2023/2024</li>
   <li>Elite Global Excellence Workshop</li>
   <li>Cisco Networking Academy course completion 2023</li>
   <li>Jazari Robotic Workshop 2022</li>
   <li>Programming Clinic 2022</li>
 </ol>
+
+<hr>
+<hr>
+
+## Honors and Awards
+<ol>
+  <li>Dean's List semester 1 2023/2024</li>
+</ol>
+
+## Projects
+<ol>
+  <li>Low Carbon Initiatives Community Monitoring System - back-end and front-end</li>
+    <ul>
+      <li> Front-end: System Analysis and Design </li>
+      <li> Back-end: Database Management System </li>
+    </ul>
+  <li>Network Design For Faculty of Computing N28B</li>
+  <li>Job Searching Platform (front-end) - Human-Computer Interaction</li>
+  <li>GPA Calculator mini project using Data Structure and Algorithm</li>
+  <li>UTM e-Job System for Students</li>
+  <li>Restaurant Reservation System mini project using Object-Oriented Programming</li>
+</ol>
+
+<hr>
+<hr>
